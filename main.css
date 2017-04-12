@@ -1,32 +1,27 @@
 #screen {
-  margin-top:30px;
-  height:80px;
-  background:black;
-  padding:5px;
-  background-color:#C3BDAC;
-  margin-bottom:10px;
-  border-radius:10px;
-  text-align:right;
-  font-size:3em;
-  font-family: 'VT323', monospace;
+    height: 80px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    padding: 5px;
+    text-align: right;
+    border-radius: 10px;
+    background: black;
+    background-color: #C3BDAC;
+    font-family: 'VT323', monospace;
+    font-size: 4em;
 }
 
-.container{
-
-  width:450px;
+.container {
+    width: 450px;
 }
 
-.calcbtn{
-
-border-radius:5px;
-margin-bottom: 3px;
-font-family: 'Rubik', sans-serif;
-font-size:30px;
-
-
-
+.calcbtn {
+    margin-bottom: 3px;
+    border-radius: 5px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 30px;
 }
 
-body{
-  background-color: black;
+body {
+    background-color: black;
 }
